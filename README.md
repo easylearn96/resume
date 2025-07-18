@@ -10,7 +10,7 @@ This repository contains my **personal resume** designed and developed using cor
 * **JavaScript** for interactivity and enhancements
 * **Google Fonts / Custom Fonts** for elegant typography
 * 🌐 Live Demo:
-https://easylearn96.github.io/resume/  \[Add your GitHub Pages or Netlify link here]
+https://easylearn96.github.io/resume/
 📁 What's Inside:
 * `index.html` – Main resume layout
 * `style.css` – Custom styles and responsive tweaks
